@@ -24,11 +24,11 @@ This project detects potholes using:
 
 ## 🚀 How to Run
 
-### Train YOLO
+### Train YOLO - python train_yolo.py
 
-### Detection
+### Detection - python yolo_detection.py
 
-### Evaluation
+### Evaluation - python yolo_evaluation.py
 
 ## 📁 Dataset
 Dataset used:
