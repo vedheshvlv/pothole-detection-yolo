@@ -1,0 +1,7 @@
+path: C:/Users/vedes/OneDrive/Desktop/pothole_detection_project/dataset
+
+train: images/train
+val: images/train
+
+names:
+  0: pothole
